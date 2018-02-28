@@ -2,8 +2,8 @@
 
 [Nouns & Pronouns]()
 
-  * [Gender](gender.md)
-  * [Nominative](nominative.md)
+  * [Gender](nouns/gender.md)
+  * [Nominative](nouns/nominative.md)
   * [Accusative](accusative.md)
   * [Dative](dative.md)
   * [Genitive](genitive.md)
